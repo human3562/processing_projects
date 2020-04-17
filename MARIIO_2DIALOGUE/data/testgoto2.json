@@ -1,0 +1,909 @@
+{
+  "levelWidth": 10,
+  "blocks": [
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 96
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 160
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 224
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 288
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 352
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 416
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 480
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 32,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 96
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 160
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 224
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 288
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 352
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 416
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 480
+    },
+    {
+      "isSolid": false,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 96,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 96
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 160
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 224
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 288
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 352
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 416
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 480
+    },
+    {
+      "isSolid": false,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 160,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 96
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 160
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 224
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 288
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 352
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 416
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 480
+    },
+    {
+      "isSolid": false,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 224,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 96
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 160
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 224
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 288
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 352
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 416
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 480
+    },
+    {
+      "isSolid": false,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 288,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 96
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 160
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 224
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 288
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 352
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 416
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 480
+    },
+    {
+      "isSolid": false,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 352,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": false,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 96
+    },
+    {
+      "isSolid": false,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 160
+    },
+    {
+      "isSolid": false,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 224
+    },
+    {
+      "isSolid": false,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 288
+    },
+    {
+      "isSolid": true,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 352
+    },
+    {
+      "isSolid": false,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 416
+    },
+    {
+      "isSolid": false,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 480
+    },
+    {
+      "isSolid": false,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 416,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": false,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 96
+    },
+    {
+      "isSolid": false,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": -1,
+      "positionX": 160
+    },
+    {
+      "isSolid": true,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 224
+    },
+    {
+      "isSolid": true,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 288
+    },
+    {
+      "isSolid": true,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 352
+    },
+    {
+      "isSolid": true,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 416
+    },
+    {
+      "isSolid": true,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 480
+    },
+    {
+      "isSolid": false,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": true,
+      "pointerBlockId": 78,
+      "destructible": false,
+      "pointerLevelId": 1,
+      "textureId": -1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 480,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 96
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 160
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 224
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 288
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 352
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 416
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 480
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 5,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 544,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 32
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 96
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 160
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 224
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 288
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 352
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 416
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 480
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 544
+    },
+    {
+      "isSolid": true,
+      "positionY": 608,
+      "ladder": false,
+      "isPointer": false,
+      "destructible": false,
+      "textureId": 1,
+      "positionX": 608
+    }
+  ],
+  "levelId": 0,
+  "levelHeight": 10
+}
